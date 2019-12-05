@@ -1,3 +1,4 @@
+##Python Diamond Shape Generator With any character given by the user
 z = str(input('Press "Y" To Make The Diamond Shape and "Q" to Quit The Program.'))
 while(z=="Y" or z=="y"):
     char = str(input("\nEnter any Character you want to make the diamond shape with :"))
